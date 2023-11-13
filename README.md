@@ -7,3 +7,6 @@ This is a demo README file.
 ## Subheader
 
 Some more changes. Watching youtube
+
+## Local Development
+1. Open index.html in your browser.
